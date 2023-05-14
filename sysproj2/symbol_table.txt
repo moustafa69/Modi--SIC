@@ -1,0 +1,10 @@
+control section  Symbol Name Address Length
+          PROGA               000000  00063
+                       LISTA  000040       
+                        ENDA  000054       
+          PROGB               000063  0007F
+                       LISTB  0000C3       
+                        ENDB  0000D3       
+          PROGC               0000E2  00051
+                       LISTC  000112       
+                        ENDC  000124       
